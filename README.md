@@ -6,3 +6,6 @@ Inicialmente foi feito os ajustes dos dados Cancer-Atlas, resultando em dois arq
 Foi utilizado pacotes como leaflet, shiny e shinydashboard para criação do aplicativo.
 
 Foi feito visualizações em mapa, gráficos interativos e tabelas com estatísticas.
+
+Link para a aplicação: 
+https://guandrade.shinyapps.io/shinydashboard_app/

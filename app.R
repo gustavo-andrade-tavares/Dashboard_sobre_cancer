@@ -3,6 +3,7 @@ library(shiny)
 library(shinydashboard)
 library(leaflet)
 library(plotly)
+library(sf)
 
 #dados ajustados com as variáveis traduzidas para visualização no mapa 
 dados_cancer <- read_rds("Dados_cancer.rds")
